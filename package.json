@@ -1,0 +1,14 @@
+{
+  "name": "cypress-xstate-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matt Pocock <mattpocockvoice@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.33",
+    "@xstate/test": "^0.5.1",
+    "cypress": "^9.6.1",
+    "typescript": "^4.6.4",
+    "xstate": "^4.32.1"
+  }
+}
